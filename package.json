@@ -1,7 +1,7 @@
 {
-  "name": "gsap-tools",
+  "name": "@zilahir/gsap-tools",
   "description": "A simple tool to debug GSAP animations",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "main": "dist/gsap-tools.js",
   "types": "dist/gsap-tools.d.ts",
   "repository": {
@@ -68,8 +68,8 @@
     "gsap": "^2.0.1",
     "lodash": "4.17.14",
     "prop-types": "15.6.1",
-    "react": "16.4.2",
-    "react-dom": "16.4.2",
+    "react": "16.6.4",
+    "react-dom": "16.8.4",
     "react-draggable": "3.0.5"
   },
   "peerDependencies": {
